@@ -169,4 +169,4 @@ MIT License
 
 ---
 
-Built with ❤️ by Shashwat Soni
+Built with ❤️ by Shashwat Soni & Harsh Abhichandani
